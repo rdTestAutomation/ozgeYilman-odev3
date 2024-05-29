@@ -1,0 +1,12 @@
+Kimlik Numarası:string
+Adi:string
+Soyadi:string
+Yaş:integer
+Pozisyon:string
+Adres:string[]
+  Sokak:string
+  Şehir:string
+  Ülke:string
+E-posta:string
+  
+

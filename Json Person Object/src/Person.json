@@ -1,0 +1,16 @@
+{
+  "person": {
+    "Kimlik Numarasi": "12345678910",
+    "Adi": "Özge",
+    "Soyadi": "Yilman",
+    "Yas": 25,
+    "Pozisyon": "Bilgisayar Mühendisi",
+    "Adres": {
+      "Sokak": "Çiçek Sokak",
+      "Sehir": "Ankara",
+      "Ülke": "Türkiye"
+    },
+
+  "Email": "ozgeyilman01@gmail.com"
+  }
+}

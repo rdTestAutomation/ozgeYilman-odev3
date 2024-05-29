@@ -1,0 +1,13 @@
+<person>
+    <KimlikNumarasi>12345678910</KimlikNumarasi>
+    <Adi>Özge</Adi>
+    <Soyadi>Yilman</Soyadi>
+    <Yas>25</Yas>
+    <Pozisyon>Bilgisayar Mühendisi</Pozisyon>
+    <Adres>
+        <Sokak>Çiçek Sokak</Sokak>
+        <Sehir>Ankara</Sehir>
+        <Ülke>Türkiye</Ülke>
+    </Adres>
+    <Email>ozgeyilman01@gmail.com</Email>
+</person>
